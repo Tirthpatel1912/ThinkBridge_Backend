@@ -6,17 +6,12 @@ This is the backend application for managing invoices. It provides APIs to fetch
 
 - RESTful API endpoints for invoice management
 - Fetch all invoices or specific invoices by ID
-- Add new invoices
-- Update existing invoices
-- Delete invoices
-- Proper error handling and JSON responses
 
 ## Technologies Used
 
-- Python 3.x
-- Django / Django REST Framework
-- MySQL (or any relational database)
-- Docker (optional, for containerization)
+- .NET WEB API
+- Sql Server
+- Entity Framework
 
 ## Installation
 
